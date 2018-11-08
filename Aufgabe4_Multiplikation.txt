@@ -1,0 +1,36 @@
+Matrixmultiplikation:
+
+Daten (n, Zeit in ms)
+80	17
+180	13
+280	62
+380	69
+480	151
+580	285
+680	468
+780	735
+880	878
+980	1225
+1080	1631
+1180	2114
+1280	3912
+1380	3412
+1480	5506
+1580	8058
+1680	12893
+1780	16629
+1880	21669
+1980	26424
+
+
+Polynom 3. Grades approximiert mithilfe eines Regressionsrechners
+
+y = 1.10762525·10^(-5) * x^3 - 2.07861864·10^(-2) * x^2 + 11.93517055 x - 1505.542421
+(x = Dimension der Matrix, y = Zeit in ms)
+
+
+
+1 Minute: n = ca. 2395
+2 Minuten: n = ca. 2850
+5 Minuten: n = ca. 3638
+10 Minuten: n = ca. 4417
